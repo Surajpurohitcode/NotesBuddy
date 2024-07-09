@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804737352228",
+    "project_id": "notesbuddy-4c22e",
+    "storage_bucket": "notesbuddy-4c22e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804737352228:android:89a9eb8df14c41cdbd8eb1",
+        "android_client_info": {
+          "package_name": "com.surajpurohit.notesbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefPYBBF8_stcxSgJdNVQEWfIqTTXgro4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
